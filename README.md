@@ -1,4 +1,4 @@
-# [Hugo Markdown Slides Theme](https://github.com/wowchemy/starter-hugo-markdown-slides)
+# [Markdown Slides](https://github.com/wowchemy/starter-hugo-markdown-slides)
 
 [![Screenshot](./preview.webp)](https://wowchemy.com/hugo-themes/)
 
